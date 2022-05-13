@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Large company name at top*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +24,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* contains the navigation bar*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/* sets the large background image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,7 +61,7 @@ p {
     background-position: center;
     
 }
-
+/*commands the images to float to the end of the block*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -70,6 +72,7 @@ p {
     margin-left: 25px;
 }
 
+/*set the area for the images+decriptions in body*/
 .content {
     width: 75%;
     display: inline-block;
@@ -196,6 +199,7 @@ p {
     text-align: center;
 }
 
+/*edits footer size to stand out more*/
 .footer h5 {
     font-size: 20px;
 }
